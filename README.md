@@ -1,5 +1,5 @@
 # Forked-Search-Engine
-Just so I can learn of how to make a search engine
+Forked Search Engine
 
 https://zi-youtuber.github.io/Forked-Search-Engine/
 
